@@ -1,0 +1,5 @@
+[
+    { "AlbumId": 1, "Title": "OK Computer", "ArtistId": 1 },
+    { "AlbumId": 2, "Title": "Paano Na Kaya", "ArtistId": 2 },
+    { "AlbumId": 3, "Title": "Silver Series", "ArtistId": 3 }
+]
